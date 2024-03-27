@@ -1,3 +1,5 @@
+# Don't use it waste more time please use cleanup,py without the GUI
+
 import os
 import math
 import tkinter as tk
